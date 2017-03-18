@@ -1,0 +1,21 @@
+#background-table
+{
+	width: 600px;
+	height: 400px;
+	background-color: #DCDCDC;
+	border-radius: 5px;
+	padding: 15px;
+	opacity: 0.2;
+}
+
+#background-table select.A
+{
+	margin-right: 30px;
+}
+
+#background-table i 
+{
+	position: absolute;
+	left: 300px;
+	top: 200px;
+}
